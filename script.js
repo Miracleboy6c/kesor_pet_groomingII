@@ -38,7 +38,7 @@ const servicesData = [
         duration_km: "90 - 120 នាទី",
         duration_en: "90 - 120 mins",
         icon: "fa-scissors",
-        image: "https://images.unsplash.com/photo-1591946614720-90a587da4a36?auto=format&fit=crop&w=700&q=80",
+        image: "blob:https://web.facebook.com/6922dd5f-8176-49b2-b09f-e484016e16a3",
         shortDesc_km: "កាត់តម្រឹមរោមម៉ូដស្អាតៗឱ្យសមនឹងទម្រង់មុខ និងពូជសត្វចិញ្ចឹមរបស់លោកអ្នក។",
         shortDesc_en: "Precision haircut and artistic styling tailored to your pet's face shape and breed.",
         fullDesc_km: "ផ្លាស់ប្តូររូបរាងសត្វចិញ្ចឹមឱ្យកាន់តែគួរឱ្យស្រឡាញ់! ជាងជំនាញរបស់យើងនឹងជួយកាត់តម្រឹមរោមម៉ូដស្អាតៗ (ដូចជាម៉ូដ Teddy Bear ម៉ូដមុខមូល ឬម៉ូដតាមពូជសត្វ) ដោយយកចិត្តទុកដាក់បំផុត។",
